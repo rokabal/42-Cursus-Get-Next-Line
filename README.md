@@ -4,3 +4,6 @@ This project is about programming a function that returns a line read from a fil
 
 ## Tester
 * [Tripouille/gnlTester](https://github.com/Tripouille/gnlTester)
+
+## License
+This work is published under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
